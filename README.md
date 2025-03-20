@@ -1,7 +1,8 @@
 # 🐍 Python Learning Resources - Beginner Friendly 🚀
 
 
-![Python Logo]()
+![Python Logo](./assets/python.png)
+
 
 This repository contains a structured collection of **Python programming materials**, organized into chapters and exercises to facilitate **systematic learning and practice**.
 
