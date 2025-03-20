@@ -68,4 +68,5 @@ Contributions are welcome! Feel free to **fork** the repository and create **pul
 
 ## 📄 License
 This project is licensed under the **MIT License**.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
