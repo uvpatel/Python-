@@ -1,7 +1,6 @@
-# 🐍 Python Learning Resources - Beginner Friendly 🚀
+# ![Python Logo](./assets/python.png) Python Learning Resources - Beginner Friendly 🚀
 
 
-![Python Logo](./assets/python.png)
 
 
 This repository contains a structured collection of **Python programming materials**, organized into chapters and exercises to facilitate **systematic learning and practice**.
@@ -51,3 +50,22 @@ To get started with this repository:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/uvpatel/Python-.git
+
+## 🔗 Connect With Me
+- **GitHub**: [uvpatel](https://github.com/uvpatel)
+- **Email**: uvpatel7271@gmail.com
+
+## 🗓️ Upcoming Plan
+- Add **Projects Section**
+- Include **Python Mini Projects**
+- Include **Data Science and AI-related content** (Coming Soon)
+
+## 📚 Resources
+- [Code With Harry - Python Course](https://www.codewithharry.com/tutorial/python/)
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to **fork** the repository and create **pull requests**.
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
