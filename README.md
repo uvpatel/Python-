@@ -1,4 +1,4 @@
-# ![Python Logo](./assets/python.png) Python Learning Resources - Beginner Friendly 🚀
+# ![Python Logo](./assets/python.png) Python Learning Resources - Beginner Friendly ![Python Logo](./assets/python.png)
 
 
 
